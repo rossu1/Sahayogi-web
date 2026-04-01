@@ -16,7 +16,7 @@ export default function Navbar() {
           <span className="text-lg font-semibold text-white">Sahayogi</span>
         </div>
         <a
-          href="https://sahayogi-emergency-app.vercel.app"
+          href="https://sahayogi-app.vercel.app"
           className="rounded-full bg-[#DC2626] px-4 py-2 text-sm font-medium text-white transition-opacity hover:opacity-90"
         >
           Get the App
