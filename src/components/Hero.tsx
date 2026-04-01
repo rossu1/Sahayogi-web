@@ -42,7 +42,7 @@ export default function Hero() {
           className="mt-8 flex flex-col items-center justify-center gap-4 sm:flex-row"
         >
           <a
-            href="http://localhost:8081"
+            href="https://sahayogi-emergency-app.vercel.app"
             className="rounded-full bg-[#DC2626] px-8 py-3 text-base font-medium text-white transition-opacity hover:opacity-90"
           >
             Open Web App
